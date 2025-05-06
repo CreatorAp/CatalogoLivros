@@ -1,0 +1,15 @@
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\bin\Debug\net9.0\CatalogoLivros.Application.deps.json
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\bin\Debug\net9.0\CatalogoLivros.Application.dll
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\bin\Debug\net9.0\CatalogoLivros.Application.pdb
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\bin\Debug\net9.0\CatalogoLivros.Domain.dll
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\bin\Debug\net9.0\CatalogoLivros.Domain.pdb
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.csproj.AssemblyReference.cache
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.AssemblyInfoInputs.cache
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.AssemblyInfo.cs
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.csproj.CoreCompileInputs.cache
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\Catalogo.4C69294B.Up2Date
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.dll
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\refint\CatalogoLivros.Application.dll
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\CatalogoLivros.Application.pdb
+C:\Users\arnon\source\repos\CatalogoLivros\CatalogoLivros.Application\obj\Debug\net9.0\ref\CatalogoLivros.Application.dll

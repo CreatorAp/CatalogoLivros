@@ -1,0 +1,768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogoliros.api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|solutionrelative:catalogoliros.api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogoliros.api\\controllers\\usuarioocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|solutionrelative:catalogoliros.api\\controllers\\usuarioocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.infra\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|solutionrelative:catalogolivros.infra\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.infra\\data\\catalogolivrosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|solutionrelative:catalogolivros.infra\\data\\catalogolivrosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.infra\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|solutionrelative:catalogolivros.infra\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\commands\\createlivro\\createusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\commands\\createlivro\\createusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\queries\\login\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\queries\\login\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.domain\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|solutionrelative:catalogolivros.domain\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\queries\\getusuario\\getusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\queries\\getusuario\\getusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\queries\\getusuariobyid\\getusuariobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\queries\\getusuariobyid\\getusuariobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\queries\\getusuario\\getusuarioqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\queries\\getusuario\\getusuarioqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\queries\\getusuario\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\queries\\getusuario\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Migrations\\20250505122138_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CatalogoLivros.Infra\\Migrations\\20250505122138_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\commands\\updatelivro\\updateusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\commands\\updatelivro\\updateusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\commands\\createlivro\\createusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\commands\\createlivro\\createusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\commands\\updatelivro\\updateusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\commands\\updatelivro\\updateusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\queries\\getlivro\\livrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\queries\\getlivro\\livrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.domain\\repository\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|solutionrelative:catalogolivros.domain\\repository\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.domain\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|solutionrelative:catalogolivros.domain\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogoliros.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|solutionrelative:catalogoliros.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\queries\\getlivrobyid\\getlivrobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\queries\\getlivrobyid\\getlivrobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.domain\\entity\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|solutionrelative:catalogolivros.domain\\entity\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\commands\\deletelivro\\deleteusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\commands\\deletelivro\\deleteusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\usuarios\\commands\\deletelivro\\deleteusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\usuarios\\commands\\deletelivro\\deleteusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\commands\\createlivro\\createlivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\commands\\createlivro\\createlivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\commands\\createlivro\\createlivrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\commands\\createlivro\\createlivrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogoliros.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|solutionrelative:catalogoliros.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogoliros.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|solutionrelative:catalogoliros.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogoliros.api\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51285BEC-2987-4FC7-BC1F-B199EB45B8A5}|CatalogoLiros.API\\CatalogoLivros.API.csproj|solutionrelative:catalogoliros.api\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\commands\\updatelivro\\updatelivrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\commands\\updatelivro\\updatelivrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.infra\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|solutionrelative:catalogolivros.infra\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\commands\\updatelivro\\updatelivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\commands\\updatelivro\\updatelivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Migrations\\20250503152600_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CatalogoLivros.Infra\\Migrations\\20250503152600_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\queries\\getlivro\\getlivroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\queries\\getlivro\\getlivroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\queries\\getlivrobyid\\getlivrobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\queries\\getlivrobyid\\getlivrobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\queries\\getlivro\\getlivroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\queries\\getlivro\\getlivroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\commands\\deletelivro\\deletelivrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\commands\\deletelivro\\deletelivrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.application\\livros\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8B8A2E-A807-45CE-AE6D-592B0027F062}|CatalogoLivros.Application\\CatalogoLivros.Application.csproj|solutionrelative:catalogolivros.application\\livros\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314A13C9-1840-422E-99D9-D2C361D87235}|CatalogoLivros.Infra\\CatalogoLivros.Infra.csproj|solutionrelative:catalogolivros.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|c:\\users\\arnon\\source\\repos\\catalogolivros\\catalogolivros.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA10563-2E0C-4BF1-AF08-E91EA4165668}|CatalogoLivros.Domain\\CatalogoLivros.Domain.csproj|solutionrelative:catalogolivros.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogoLivrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Data\\CatalogoLivrosDbContext.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\Data\\CatalogoLivrosDbContext.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Data\\CatalogoLivrosDbContext.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\Data\\CatalogoLivrosDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:16:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:41:03.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:01:47.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:46:23.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQueryHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQueryHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA/wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:18:42.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "CatalogoLiros.API\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "CatalogoLiros.API\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwCYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:08:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariooController.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Controllers\\UsuariooController.cs",
+              "RelativeDocumentMoniker": "CatalogoLiros.API\\Controllers\\UsuariooController.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Controllers\\UsuariooController.cs",
+              "RelativeToolTip": "CatalogoLiros.API\\Controllers\\UsuariooController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:47:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\ConfigureServices.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\ConfigureServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:08:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUsuarioCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommandHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommandHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommandHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:23:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetUsuarioQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:25:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Domain\\Entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Entity\\Usuario.cs",
+              "RelativeToolTip": "CatalogoLivros.Domain\\Entity\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vw4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:37:19.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetUsuarioByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuarioById\\GetUsuarioByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuarioById\\GetUsuarioByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuarioById\\GetUsuarioByIdQueryHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuarioById\\GetUsuarioByIdQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:55:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetUsuarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQuery.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQuery.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQuery.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\GetUsuarioQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:02:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQuery.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Queries\\Login\\LoginQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:18:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioVm.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\UsuarioVm.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\UsuarioVm.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\UsuarioVm.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Queries\\GetUsuario\\UsuarioVm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:29:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250505122138_teste.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Migrations\\20250505122138_teste.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\Migrations\\20250505122138_teste.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Migrations\\20250505122138_teste.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\Migrations\\20250505122138_teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:21:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LivroVm.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\LivroVm.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\LivroVm.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\LivroVm.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\LivroVm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:09:27.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateUsuarioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommand.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommand.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommand.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:25:21.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateUsuarioCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommandHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommandHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommandHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Commands\\UpdateLivro\\UpdateUsuarioCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:25:36.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUsuarioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommand.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommand.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommand.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Commands\\CreateLivro\\CreateUsuarioCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:23:13.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Repository\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Domain\\Repository\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Repository\\ILivroRepository.cs",
+              "RelativeToolTip": "CatalogoLivros.Domain\\Repository\\ILivroRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:00:57.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Domain\\Repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "CatalogoLivros.Domain\\Repository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:38:24.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetLivroByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQueryHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:16:36.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogoLiros.API\\Program.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Program.cs",
+              "RelativeToolTip": "CatalogoLiros.API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:16:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Entity\\Livro.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Domain\\Entity\\Livro.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Entity\\Livro.cs",
+              "RelativeToolTip": "CatalogoLivros.Domain\\Entity\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:55:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMapFrom.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\IMapFrom.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Common\\Mappings\\IMapFrom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:00:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteUsuarioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommand.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommand.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommand.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:24:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteUsuarioCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommandHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommandHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommandHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Usuarios\\Commands\\DeleteLivro\\DeleteUsuarioCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:24:47.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateLivroCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommandHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommandHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommandHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommandHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:50:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateLivroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommand.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommand.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommand.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:32:13.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateLivroCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommandHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommandHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommandHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Commands\\CreateLivro\\CreateLivroCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:34:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CatalogoLiros.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\appsettings.json",
+              "RelativeToolTip": "CatalogoLiros.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T06:04:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Controllers\\ApiControllerBase.cs",
+              "RelativeDocumentMoniker": "CatalogoLiros.API\\Controllers\\ApiControllerBase.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Controllers\\ApiControllerBase.cs",
+              "RelativeToolTip": "CatalogoLiros.API\\Controllers\\ApiControllerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:10:23.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateLivroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommand.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommand.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommand.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Commands\\UpdateLivro\\UpdateLivroCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA3wA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:46:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CatalogoLiros.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLiros.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CatalogoLiros.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T06:19:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Repository\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Repository\\LivroRepository.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\Repository\\LivroRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:21:07.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250503152600_teste.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Migrations\\20250503152600_teste.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\Migrations\\20250503152600_teste.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Migrations\\20250503152600_teste.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\Migrations\\20250503152600_teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:26:01.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetLivroQuery.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQuery.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQuery.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQuery.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:11:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetLivroByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQuery.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQuery.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQuery.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Queries\\GetLivroById\\GetLivroByIdQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:04:03.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetLivroQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQueryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQueryHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQueryHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Queries\\GetLivro\\GetLivroQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:26:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeleteLivroCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\DeleteLivro\\DeleteLivroCommandHandler.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Commands\\DeleteLivro\\DeleteLivroCommandHandler.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Commands\\DeleteLivro\\DeleteLivroCommandHandler.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Commands\\DeleteLivro\\DeleteLivroCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:43:58.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMapFrom.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Application\\Livros\\Common\\Mappings\\IMapFrom.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Application\\Livros\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeToolTip": "CatalogoLivros.Application\\Livros\\Common\\Mappings\\IMapFrom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:39:12.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Class1.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Infra\\Class1.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Infra\\Class1.cs",
+              "RelativeToolTip": "CatalogoLivros.Infra\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:04:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CatalogoLivros.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\arnon\\source\\repos\\CatalogoLivros\\CatalogoLivros.Domain\\Class1.cs",
+              "RelativeToolTip": "CatalogoLivros.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:14:59.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
